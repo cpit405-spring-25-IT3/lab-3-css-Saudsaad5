@@ -1,0 +1,10 @@
+.image-preview img{
+    border-top: 15px solid skyblue;
+    border-left: 15px solid #ffefd5;
+    border-right: 15px solid lightpink;
+    border-bottom: 15px solid lightgreen ;
+}
+
+table{
+    text-align: center;
+}
